@@ -1,0 +1,22 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-bundle-dependency-siraitx">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_bundle_dependency_siraitx</output-path>
+    <root id="archive" name="spark.jar">
+      <element id="module-output" name="Microsphere" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/servlet-api-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-api-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-lang3-3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/freemarker-2.3.20.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/slf4j-simple-1.7.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections4-4.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-io-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-xml-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-http-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-util-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-server-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-webapp-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-servlet-9.1.0.v20131115.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jetty-security-9.1.0.v20131115.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

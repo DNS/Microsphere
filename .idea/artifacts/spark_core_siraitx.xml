@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spark-core-siraitx">
+    <output-path>$PROJECT_DIR$/out/artifacts/spark_core_siraitx</output-path>
+    <root id="archive" name="spark-core-siraitx.jar">
+      <element id="module-output" name="Microsphere" />
+    </root>
+  </artifact>
+</component>

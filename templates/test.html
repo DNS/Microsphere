@@ -1,0 +1,19 @@
+
+
+${thelist[0]} <br>
+${thelist[1]} <br>
+${thelist[2]} <br>
+
+${anotherString} <br>
+${anotherNumber} <br>
+
+${thehash.a} <br>
+${thehash.b} <br>
+<hr>
+<#list thehash?keys as k>
+    ${k} -> ${thehash[k]} <br>
+</#list>
+<hr>
+<#list thelist as i>
+    ${i} <br>
+</#list>

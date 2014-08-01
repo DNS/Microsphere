@@ -1,0 +1,16 @@
+/*
+* MICROSPHERE BUG TODO !@@!
+*
+* 1. No custom error page - 404 !
+* 2. Must set to response.type("text/html") for every route declaration     (fixed)
+* 3. Template Path error   (fixed)
+* 4. Route "/blog" and "/blog/" doesn't match
+* 5. Remove diamond operator     (fixed)
+*
+* MICROSPHERE TODO:
+* 1. update to the latest jetty & freemarker
+* 2. download sqlite jar
+*
+*
+*
+* */
